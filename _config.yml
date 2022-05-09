@@ -1,3 +1,6 @@
 remote_theme: "mmistakes/minimal-mistakes@4.24.0"
 title: My Homepage
 description: Here you can find some of my work and achievements. Enjoy!
+
+plugins:
+  - jekyll-include-cache
