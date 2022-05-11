@@ -47,7 +47,7 @@ I'm comfortable with the **Solidity** language and continue to improve my skills
 
 ### NFTs
 
-Starting with the basics, I have bought and sold NFTs on OpenSea.io and am familiar with the metamask and the various networks (Ethereum, Polygon, Solana). I am currently learning the [HashLips art engine](https://github.com/HashLips/hashlips_art_engine) used to generate NFT collections and working on my own NFTs. Coming soon!
+Starting with the basics, I have bought and sold NFTs on OpenSea.io and am familiar with **metamask** and the various networks (Ethereum, Polygon, Solana). I am currently learning the [HashLips art engine](https://github.com/HashLips/hashlips_art_engine) used to generate NFT collections and working on my own NFTs. Coming soon!
 
 One interest of mine is NFTs with utility. For example, I own multiple domains that are NFTs. This allows me to fully own the domain and host decentralized websites on **IPFS**. I believe much more in life could be tokenized and decentralized. 
 
