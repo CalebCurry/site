@@ -1,0 +1,28 @@
+main:
+#  - title: "Work Experience"
+#    url: /experience/
+#  - title: "Downloads"
+#    url: '/downloads/'
+#  - title: "References"
+#    url: '/references/'
+
+docs:
+  - title: I'm Searching For...
+    children:
+    - title: Web3 Engineer
+      url: "#web3-engineer"
+    - title: "Full Stack Software Engineer"
+  - title: Current
+    children:
+      - title: "YouTube"
+        url: /#youtube
+      - title: "Space Pool"
+        url: /#space-pool
+  - title: Skills
+    children:
+      - title: "Solidity Smart Contracts"
+        url: /#solidity
+      - title: "NFTs"
+        url: /#nfts
+      - title: "Web Development"
+        url: /#web-development

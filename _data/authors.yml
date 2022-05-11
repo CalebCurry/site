@@ -1,0 +1,32 @@
+Caleb Curry:
+  name        : "Caleb Curry"
+  bio         : "Through continually writing code and building my YouTube channel, I’ve built strong skills in software and entrepreneurship. With every role, I bring more than the ability to write code. I bring the ability to turn software into a valuable tool that anyone can use and understand."
+  avatar      : "/assets/images/myface.jpeg"
+  links:
+    - label: "Email"
+      icon: "fas fa-fw fa-envelope-square"
+      url: "mailto:caleb@calebcurry.com"
+    - label: "GitHub"
+      icon: "fas fa-fw fa-link"
+      url: "https://github.com/calebcurry"
+    - label: "Main YouTube"
+      icon: "fas fa-fw fa-link"
+      url: "https://www.youtube.com/c/CalebTheVideoMaker2"
+    - label: "Crypto YouTube"
+      icon: "fas fa-fw fa-link"
+      url: "https://www.youtube.com/channel/UCi6c6gqIi7Qe18lZIF98JCQ"
+    - label: "LinkedIn"
+      icon: "fas fa-fw fa-link"
+      url: "https://www.linkedin.com/in/calebcurry/"
+    - label: "Twitter"
+      icon: "fas fa-fw fa-link"
+      url: "mailto:caleb@calebcurry.com"
+
+
+
+    #- label: "Website"
+    #  icon: "fas fa-fw fa-link"
+    #  url: "https://thewhip.com"
+    #- label: "Twitter"
+    #  icon: "fab fa-fw fa-twitter-square"
+    #  url: "https://twitter.com/calebcurry"
