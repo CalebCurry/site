@@ -43,7 +43,7 @@ Space Pool is the largest Chia pool using the official pooling protocol, and the
 
 ### Solidity
 
-I'm comfortable with the **Solidity** language and continue to improve my skills. I've deployed sample contracts on the Kovan Ethereum testnet. [You can find the code here](https://github.com/CalebCurry/initial-solidity) and links to the smart contracts in the `readme.md`. This code will use a **Chainlink Oracle** to get the current Ethereum price. 
+I'm comfortable with the **Solidity** language and continue to improve my skills. I've deployed sample contracts on the Kovan Ethereum testnet. [You can find the code here](https://github.com/CalebCurry/initial-solidity) and links to the smart contracts in the `readme.md`. This code includes multiple projects. One will use a [**Chainlink Oracle**](https://github.com/CalebCurry/initial-solidity/blob/main/docs.chain.link/samples/Tutorials/PriceChecker.sol) to get the current Ethereum price, another is a [lottery system](https://github.com/CalebCurry/initial-solidity/blob/main/projects/lottery.sol) that gives multiple contributors the chance to win some Eth!
 
 ### NFTs
 
@@ -57,4 +57,4 @@ I have experience in most major backend languages and frameworks including **Nod
 
 I have a good understanding of Databases (**SQL** and **NoSQL**) and I'm comfortable building an **API** using **JWT authorization**. I can create login systems in **React** and deploy everything to production on **AWS**.  
 
-I am able to build software in a team environment with **GitHub**, branches, and pull requests. This includes open source software such as [this portfolio website](https://github.com/CalebCurry/site) built with **Jeckyll** and hosted on **GitHub Pages**. Additionally, I have a good understanding of **Markdown** and technical documentation engines such as **Docusaurus** and **GitBook**.
+I am able to build software in a team environment with **GitHub**, branches, and pull requests. This includes open source software such as [this portfolio website](https://github.com/CalebCurry/site) built with **Jeckyll** and hosted on **GitHub Pages**. Additionally, I have a good understanding of **Markdown** and technical documentation engines such as **Docusaurus** and **GitBook**. You can find an example of a [documentation website](https://wiki.pool.space/) I built. Here is the [open source code](https://github.com/space-pool/wiki).  
