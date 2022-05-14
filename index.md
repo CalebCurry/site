@@ -18,6 +18,9 @@ I'm most interested in a role that allows me to build the future of **blockchain
 ### Web Developer
 The secondary role I am looking for is a web developer. This is what I have the most experience in and believe I have a good understanding of the full stack. From databases and backends to presenting things on a webpage, I can do it.
 
+### Devrel (Developer Relations)
+Need an engineer who can also build a community? I'm well versed in simplifying technical content and helping people succeed in an ecosystem. I'm familiar with markdown documentation, video tutorials, Discord management,and software development.
+
 ## I'm Currently Working on...
 
 ### YouTube
@@ -44,6 +47,8 @@ Space Pool is the largest Chia pool using the official pooling protocol, and the
 ### Solidity
 
 I'm comfortable with the **Solidity** language and continue to improve my skills. I've deployed sample contracts on the Kovan Ethereum testnet. [You can find the code here](https://github.com/CalebCurry/initial-solidity) and links to the smart contracts in the `readme.md`. This code includes multiple projects. One will use a [**Chainlink Oracle**](https://github.com/CalebCurry/initial-solidity/blob/main/docs.chain.link/samples/Tutorials/PriceChecker.sol) to get the current Ethereum price, another is a [lottery system](https://github.com/CalebCurry/initial-solidity/blob/main/projects/lottery.sol) that gives multiple contributors the chance to win some Eth!
+
+I have also created ERC20 tokens with OpenZeppelin. 
 
 ### NFTs
 
