@@ -19,7 +19,7 @@ I'm most interested in a role that allows me to build the future of **blockchain
 The secondary role I am looking for is a web developer. This is what I have the most experience in and believe I have a good understanding of the full stack. From databases and backends to presenting things on a webpage, I can do it.
 
 ### Devrel (Developer Relations)
-Need an engineer who can also build a community? I'm well versed in simplifying technical content and helping people succeed in an ecosystem. I'm familiar with markdown documentation, video tutorials, Discord management,and software development.
+Need an engineer who can also build a community? I'm well versed in simplifying technical content and helping people succeed in an ecosystem. I'm familiar with markdown documentation, video tutorials, Discord management, and software development.
 
 ## I'm Currently Working on...
 
